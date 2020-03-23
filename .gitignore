@@ -1,7 +1,8 @@
 
 /homework2/*
 /Answer/*
-
+/homework/homework2
+/homework/Answer
 # User-specific files
 *.csv
 *.xlsx
