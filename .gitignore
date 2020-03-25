@@ -1,11 +1,7 @@
 /.ipynb_checkpoints
-<<<<<<< HEAD
-/homework2/*.ipynb
-/Answer/
-=======
 homework/homework2/*.ipynb
 homework/Answer/*.ipynb
->>>>>>> 1dffba4d909b25b98ea878e2287fe1ecc91773b7
+
 # User-specific files
 *.csv
 *.xlsx
