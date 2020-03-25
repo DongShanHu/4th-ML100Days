@@ -1,0 +1,6 @@
+/Answer/*
+/homework2/*
+
+# User-specific files
+*.csv
+*.xlsx
