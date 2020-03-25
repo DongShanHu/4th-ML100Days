@@ -1,6 +1,6 @@
-**/homework/.ipynb_checkpoints
-**/homework/homework2/*.ipynb
-**/homework/Answer/*.ipynb
+**/homework/
+**/homework/homework2/
+**/homework/Answer/
 # User-specific files
 *.csv
 *.xlsx
